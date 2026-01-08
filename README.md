@@ -119,38 +119,16 @@ Sau đây là một số tính năng chính của website:
 
 Tài khoản customer:
 ```bash
-  username: ducan1406
+  username: domanh0345
   password: 123456
 ```
 
 Tài khoản admin:
 ```bash
-  username: ducduong123
+  username: manhduc1234
   password: 123456
 ```
 
-## :dart: Một số giao diện
-
-### Giao diện khách hàng
-
-![image](https://user-images.githubusercontent.com/86992472/234973170-b00fb420-2760-4e54-a896-0ddaacaed4b8.png)
-
-### Giao diện admin
-
-![image](https://user-images.githubusercontent.com/86992472/234973300-a46b3bcb-61d1-428f-82f4-717bd11888cd.png)
-
-## :wave: Nhóm phát triển
-
-<ul>
-    <li><a href="https://github.com/anduckhmt146">Nguyễn Đức An</a></li>
-    <li><a href="https://github.com/datdat1234">Lê Phước Đạt</a></li>
-    <li><a href="https://github.com/thaotran0611">Trần Thị Thu Thảo</a></li>
-    <li><a href="https://github.com/anhducduonghuynh">Dương Huỳnh Anh Đức</a></li>
-  </ul>
-
-## :handshake: Liên hệ
-
-Nếu bạn có câu hỏi hay thắc mắc, vui lòng liên hệ qua email: ducan1406@gmail.com
 
  
 

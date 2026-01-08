@@ -37,22 +37,7 @@ export const AboutUsPage = () => {
             </Typography>
           </Stack>
           <Stack className="about-us_avatar" direction="row" spacing={2}>
-            <Stack>
-              <Avatar sx={{ bgcolor: '#085c25' }}>ĐA</Avatar>
-              <Typography>Nguyễn Đức An</Typography>
-            </Stack>
-            <Stack>
-              <Avatar sx={{ bgcolor: '#1f6cfa' }}>AD</Avatar>
-              <Typography>Dương Huỳnh Anh Đức</Typography>
-            </Stack>
-            <Stack>
-              <Avatar sx={{ bgcolor: '#fd7e97' }}>TT</Avatar>
-              <Typography>Trần Thị Thu Thảo</Typography>
-            </Stack>
-            <Stack>
-              <Avatar sx={{ bgcolor: '#ff5722' }}>PĐ</Avatar>
-              <Typography>Lê Phước Đạt</Typography>
-            </Stack>
+            
           </Stack>
         </Box>
       </Box>
